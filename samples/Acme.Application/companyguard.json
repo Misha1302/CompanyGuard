@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "name": "Raw payment API boundary",
+      "symbolId": "M:Acme.Payments.RawPaymentGateway.ChargeAsync(System.Decimal)",
+      "allowedNamespacePrefixes": ["Acme.Payments.Infrastructure"]
+    }
+  ]
+}

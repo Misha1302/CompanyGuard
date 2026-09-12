@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/CompanyGuard.Analyzers/CompanyGuard.Analyzers.csproj" />
+  <Project Path="tests/CompanyGuard.Tests/CompanyGuard.Tests.csproj" />
+  <Project Path="samples/Acme.InternalApi/Acme.InternalApi.csproj" />
+  <Project Path="samples/Acme.Application/Acme.Application.csproj" />
+</Solution>
